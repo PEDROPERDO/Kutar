@@ -19,16 +19,17 @@
 * On April 2023, There Are *32.595 Total Trip*, From Jaklingko and Trans Jakarta, Where Total Profit in April 2023 is *Rp. 86.359.000*
 
 #### Total Modes
-> ![image](https://github.com/user-attachments/assets/cd1432af-357a-44e8-be33-5da3cef09ac1)
-> ![image](https://github.com/user-attachments/assets/b2681925-11d1-4dc1-b77b-d59cbce1c501)
+> ![image](https://github.com/user-attachments/assets/bfe79001-efe2-4e3a-9642-6a7da43193b1)
+> ![image](https://github.com/user-attachments/assets/949752cf-b051-4a73-926e-7284c6e6a3fd)
 * There Are 20.668 Transjakarta Trip, 11.927 Jaklingko Trip, 1.533 Royal Trans Trip
 * Combining Two Barplot Above, The Rp. 0 Come From 11.927 Jaklingko Trip, Meanwhile, 3.221 From KLG Service.
 
 #### Weekday v Weekend
-> ![image](https://github.com/user-attachments/assets/e494a228-b26d-4a82-9a1d-2f4f430e8558)
+> ![image](https://github.com/user-attachments/assets/c54b2646-daf6-45c7-a8be-dbbc0bd712d8)
 * Total Trip in Monday to Friday is More Than 5.800 Trip, in Saturday to Sunday is More Than 1.500 Trip
-> ![image](https://github.com/user-attachments/assets/0a02698b-454e-4041-b10d-cd560b94bf03)
-> ![image](https://github.com/user-attachments/assets/4244164f-652d-4792-b167-138cad979b6f)
+> ![image](https://github.com/user-attachments/assets/38087813-4fb0-4e51-b96d-b9f5b261e75c)
+> ![image](https://github.com/user-attachments/assets/4f007383-e000-448c-92af-f97957758a36)
+> ![image](https://github.com/user-attachments/assets/712879fd-680e-4f54-adb6-3afe4e75915f)
 * Rush Hour in Monday to Friday is 6.00 A.M and 17.00 P.M, Meanwhile in Saturday to Sunday is 17.00 P.M and 20.00 P.M
 * Interestingly, on Monday to Friday People Use Transjakarta to Commute from Their Home to Office, School or Others Places
 
@@ -40,12 +41,12 @@
 * Other Than That, Passenger with Sickness is Also a High Priority.
 
 #### Card Provider
-> ![image](https://github.com/user-attachments/assets/15098701-3d4a-4979-b5b1-beda363d9790)
+> ![image](https://github.com/user-attachments/assets/8ba7fce0-5d04-45c1-aabd-397abac78d50)
 * DKI Card Provider is Stand Alone with More Than 15.000 Total Trip, Follow by E Money (6.000), Brizzi (3.000)
 * Various Card Provider Show That Transjakarta Also Accessible to People That Visit Jakarta Only For Short Period of Time or Newcomer
 
 #### Total Trip in Corridor
-> ![image](https://github.com/user-attachments/assets/0d968826-c5dc-42d0-a510-00c69ac293bf)
+> ![image](https://github.com/user-attachments/assets/47097a7f-b63f-46fb-bb99-1ab14c7dfb1a)
 * Cibubur - Balai Kota, Ciputat - CSW, Harmoni - JIS Corridor is Top 3 Most Trip Corridor in April 2023
 * The Longest Time Trip in Corridor Trip is Around 80 Minutes, While The Shortest Nearly 1 Hour
 * The Duration Itself is Around The Average Time Trip : 71 Minute
