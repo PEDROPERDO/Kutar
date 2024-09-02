@@ -34,8 +34,8 @@
 * Interestingly, on Monday to Friday People Use Transjakarta to Commute from Their Home to Office, School or Others Places
 
 #### Passenger Distribution
-> ![image](https://github.com/user-attachments/assets/7ebc1bb8-19ea-46f5-a876-b0dfcd971411)
-> ![image](https://github.com/user-attachments/assets/dc94c6a5-b375-4185-a433-74fda6004c04)
+> ![image](https://github.com/user-attachments/assets/2e6b5c54-aff0-479a-a821-95f65cc447e3)
+> ![image](https://github.com/user-attachments/assets/6e984fd9-2e26-4faf-9139-3e288e4a3cc2)
 * While F Passenger is More Than M Passenger, There Are Highly Suggestion to Watch on Pregnant Female, Female With Infant or Kid
 * in Age Distribution, While The Distribution is Dominated by Under 40, But Maintain High Quality on Elderly Passenger is a Must
 * Other Than That, Passenger with Sickness is Also a High Priority.
